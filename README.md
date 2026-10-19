@@ -1,4 +1,4 @@
-# 👋 Hi, I’m @gyrok42 (Jairo Borba)
+# 👋 Hi, I’m @gyrok42 (Jairo)
 
 - 👀 I’m passionate about **C++, Python, Machine Learning, Signal Processing, Embedded Systems**, and **life hacking**.
 - 🌱 I’m currently diving deeper into **Deep Learning** and FPGA.
