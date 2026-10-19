@@ -6,4 +6,3 @@
 - 📫 You can reach me at:
   - [gyrok42@gmail.com](mailto:gyrok42@gmail.com)
   - [Website](https://gyrok42.com)
-- ⚡ **Fun fact**: I’m a hobbyist guitarist 🎸; I play just for fun in my downtime.
